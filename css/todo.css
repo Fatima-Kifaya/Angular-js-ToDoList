@@ -1,0 +1,17 @@
+#styleMyList  {background-color: #f3ccd9;
+                margin-left: 20em;
+                margin-right: 20em;
+                margin-top:5em;
+                padding-bottom:2em;
+                text-align: center;
+                font-size: 1em;}
+h2 { background-color: #ea8293;
+    text-align: center;
+    padding-top:1em;
+    padding-bottom: 1em;
+    font-size: 2em;
+    color: #ffffff;
+    }
+form input {background-color: #ea8293;}
+button {background-color: #ea8293;}
+#styleMyList #cbstyle {text-align:left;}
