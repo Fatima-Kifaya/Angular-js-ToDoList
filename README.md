@@ -1,1 +1,2 @@
 # ToDoList
+Simple Angular app
